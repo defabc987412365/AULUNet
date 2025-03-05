@@ -49,7 +49,7 @@ pip install pillow
 
 ### ISIC2017
 1. Download from [ISIC 2017 Challenge](https://challenge.isic-archive.com/data).
-2. Extract training and ground-truth folders into `/data/dataset_isic17/`.
+2. Extract training and ground-truth folders into `/data/ISIC2017/`.
 3. Run:
    ```bash
    python prepare_ISIC2017.py
@@ -57,7 +57,7 @@ pip install pillow
 
 ### ISIC2018
 1. Download from [ISIC 2018 Challenge](https://challenge.isic-archive.com/data).
-2. Extract training and ground-truth folders into `/data/dataset_isic18/`.
+2. Extract training and ground-truth folders into `/data/ISIC2018/`.
 3. Run:
    ```bash
    python prepare_ISIC2018.py
